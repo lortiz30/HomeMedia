@@ -30,10 +30,16 @@ https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-
 
  - Upload ubuntu iso
 
+
  ![image](https://github.com/user-attachments/assets/0f8cd543-ee30-4872-a095-7d2ddad5fb0c)
 
+- Install Ubuntu Server
 
-- 
+- If default partitioning was used we need to fix it . Follow this guide:
+
+  https://askubuntu.com/questions/1106795/ubuntu-server-18-04-lvm-out-of-space-with-improper-default-partitioning
+
+  
 
 
 
