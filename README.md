@@ -10,4 +10,25 @@ Home Media will have 3 main componets:
 
 Gaspar will have an array of hard disks and will act an an NAS. Baltasar will index and get all the torrents and store them into Gaspar. Melchor will access Gaspar and serve the media on the Plex clients.
 
+## Baltasar
+
+Specs:
+
+- i3 : No need of more processing
+- 16GB RAM : For running Docker, Prowlarr, Sonar, Radar and qBitTorrent
+- 250 GB HD : More than enough. The idea is to store store the media and torrents into the NAS
+
+Installation
+
+- Install Proxmox
+
+https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-7-4-iso-installer
+
+- Get Ubuntu Server
+
+ https://ubuntu.com/download/server
+
+- 
+
+
 
