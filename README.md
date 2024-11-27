@@ -28,6 +28,11 @@ https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-
 
  https://ubuntu.com/download/server
 
+ - Upload ubuntu iso
+
+ ![image](https://github.com/user-attachments/assets/0f8cd543-ee30-4872-a095-7d2ddad5fb0c)
+
+
 - 
 
 
