@@ -39,6 +39,18 @@ https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-
 
   https://askubuntu.com/questions/1106795/ubuntu-server-18-04-lvm-out-of-space-with-improper-default-partitioning
 
+  - Set static ip:
+ 
+    https://www.freecodecamp.org/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/
+
+    - Mount the NAS disk
+   
+    https://www.truenas.com/community/threads/nfs-share-mounting.110331/
+
+    Install Arr stack
+
+https://github.com/automation-avenue/youtube-39-arr-apps-1-click
+
   
 
 
